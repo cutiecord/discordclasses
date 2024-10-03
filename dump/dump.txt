@@ -1859,6 +1859,7 @@ fullSize_a08002
 image_a08002
 clickable_a08002
 overlay_a08002
+overlayText_a08002
 clyde_a08002
 container_cac583
 container_c32acf
