@@ -4619,9 +4619,10 @@ welcomeCTAButtonOuter_f6dde0
 welcomeCTAButton_f6dde0
 welcomeCTASticker_f6dde0
 content_d76538
-contentGlow_d76538
 contentCoachmark_d76538
 innerContent_d76538
+innerGlow_d76538
+outerGlow_d76538
 innerContentCoachmark_d76538
 contentTextCTAPopout_d76538
 subContent_d76538
