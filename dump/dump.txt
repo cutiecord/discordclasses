@@ -1017,7 +1017,12 @@ withTier0Rim_c87d73
 tier2_c87d73
 withTier2Rim_c87d73
 tier0Title_c87d73
+taglineXPTier0Title_c87d73
+taglineXPSubHeaderStoreHome_c87d73
+taglineXPSubHeaderSettings_c87d73
+tierCardHeaderDisplay_c87d73
 tier2Title_c87d73
+taglineXPTier2Title_c87d73
 title_c87d73
 item_c87d73
 itemWithWumpus_c87d73
@@ -1027,6 +1032,8 @@ trialOfferPill_c87d73
 freeTrialPillInlineBlock_c87d73
 freeTrialPillInline_c87d73
 freeTrialActivatedPillInline_c87d73
+taglineXPPrice_c87d73
+taglineXPPrices_c87d73
 price_c87d73
 newTagItem_c87d73
 mostPopularText_c87d73
@@ -3637,6 +3644,7 @@ rightTrayIcon_d22933
 embedTarget_d22933
 embedTargetHidden_d22933
 participantName_d22933
+loading_f3e233
 container_ce795d
 containerMinimized_ce795d
 content_ce795d
@@ -4189,7 +4197,6 @@ footerButton_ca37d0
 errorPage_dd2aa2
 buttons_dd2aa2
 clearOverrideButton_dd2aa2
-loading_cea94f
 appAsidePanelWrapper_bd26cc
 mobileAppAsidePanelWrapper_bd26cc
 notAppAsidePanel_bd26cc
