@@ -1386,6 +1386,7 @@ executedCommand_f9f2ca
 latin12CompactTimeStamp_f9f2ca
 latin24CompactTimeStamp_f9f2ca
 asianCompactTimeStamp_f9f2ca
+contextCommandMessage_f9f2ca
 messageSpine_f9f2ca
 repliedMessageClickableSpine_f9f2ca
 repliedMessageContentHovered_f9f2ca
@@ -1891,6 +1892,8 @@ pronounsTooltip_c32acf
 pronounsText_c32acf
 userTagDiscriminator_c32acf
 dotSpacer_c32acf
+clanTagContainer_c32acf
+clanTag_c32acf
 tooltip_a778ee
 viewFullBio_abaf7d
 viewFullBioColor_abaf7d
