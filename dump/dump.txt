@@ -74,6 +74,7 @@ tooltipRed_b6c360
 tooltipGreen_b6c360
 tooltipYellow_b6c360
 tooltipPremium_b6c360
+tooltipPointerBg_b6c360
 wrapper_c51b4e
 pointer_c51b4e
 mask_c51b4e
@@ -116,6 +117,7 @@ checkboxWrapper_f6cde8
 row_f6cde8
 checked_f6cde8
 checkboxWrapperDisabled_f6cde8
+checkbox_f6cde8
 alignTop_f6cde8
 alignCenter_f6cde8
 input_f6cde8
@@ -125,12 +127,12 @@ inputReadonly_f6cde8
 box_f6cde8
 smallBox_f6cde8
 round_f6cde8
-checkbox_f6cde8
 label_f6cde8
 labelClickable_f6cde8
 labelDisabled_f6cde8
 labelForward_f6cde8
 labelReversed_f6cde8
+checkboxDisabled_f6cde8
 collapseable_a3cc4a
 toggled_a3cc4a
 header_a3cc4a
@@ -3182,6 +3184,7 @@ colorSuccess_d90b3d
 groupLabel_d90b3d
 loader_d90b3d
 sparkles_d90b3d
+radioIcon_d90b3d
 container_d2672e
 input_d2672e
 iconContainer_d2672e
@@ -3201,6 +3204,7 @@ markValue_c7a159
 markDash_c7a159
 markDashSimple_c7a159
 defaultValue_c7a159
+hasMarks_c7a159
 sliderContainer_e13f88
 slider_e13f88
 backdrop_c9e2da
@@ -3256,6 +3260,7 @@ collapsibleItem_eb92a8
 tooltipWrapper_eb92a8
 info_eb92a8
 icon_eb92a8
+radioIndicator_eb92a8
 svg_a26d7b
 background_a26d7b
 dotBorderColor_a26d7b
