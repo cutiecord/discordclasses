@@ -1192,6 +1192,7 @@ rimGlowTier0_c87d73
 rimGlowTier2_c87d73
 trialHeader_c87d73
 withPromotionalGradientBanner_c87d73
+tier2SideGradient_c87d73
 heading_aac415
 context_aac415
 gradientUpsellWrapper_aac415
@@ -2338,8 +2339,8 @@ overlayLabel_cb3343
 positionedLayer_cb3343
 legacyInputCommandHeader_c70ab6
 noAutocompleteResults_ee43bc
-stickersHeaderWithEmojiResults_f81d65
-emojiStickersDivider_f81d65
+secondarySection_f81d65
+divider_f81d65
 spinner_f75fa8
 horizontalAutocompletes_f75fa8
 horizontalAutocomplete_f75fa8
@@ -2694,7 +2695,6 @@ name_f60904
 description_f60904
 error_f60904
 actions_f60904
-bar_cab5bc
 bar_d1cd43
 small_b37d25
 medium_b37d25
