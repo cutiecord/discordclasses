@@ -811,6 +811,8 @@ reactionEmojiDetailsDivider_e58351
 inventoryCtaButton_e58351
 ctaDescription_e58351
 nitroWheel_e58351
+effect_efd76b
+effects_b5b75b
 soundButtonWrapper_f40049
 soundButton_f40049
 soundButtonRefresh_f40049
@@ -1707,6 +1709,7 @@ tooltip_cf8a7d
 popout_b245a4
 content_b245a4
 leaderboardName_b245a4
+gameIcon_b245a4
 leaderboardTitle_b245a4
 header_b245a4
 previousChampion_b245a4
@@ -1948,6 +1951,7 @@ activityPopover_cf8aee
 statusPopover_cf8aee
 avatarPopover_cf8aee
 expandable_cf8aee
+fadeInAndOut_cf8aee
 button_cf8aee
 icon_cf8aee
 tooltipContainer_cf8aee
@@ -2357,7 +2361,6 @@ container_e41913
 column_e41913
 gif_e41913
 categoryLoader_e41913
-size_c5e128
 gifFavoriteButton_c5e128
 selected_c5e128
 showPulse_c5e128
@@ -2437,6 +2440,7 @@ soundRow_ca5acd
 soundRowNitroLocked_ca5acd
 lastSoundRow_ca5acd
 settingsClickArea_ca5acd
+settingsSoundmojiClickArea_ca5acd
 settingsIcon_ca5acd
 picker_cd703d
 refresh_cd703d
@@ -2613,6 +2617,7 @@ indentCharacterCount_bdf0de
 textArea_bdf0de
 channelTextAreaDisabled_bdf0de
 hasStackedBar_bdf0de
+inlineContainer_bdf0de
 inner_bdf0de
 innerDisabled_bdf0de
 sansAttachButton_bdf0de
