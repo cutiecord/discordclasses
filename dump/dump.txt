@@ -2617,6 +2617,8 @@ textArea_bdf0de
 channelTextAreaDisabled_bdf0de
 hasStackedBar_bdf0de
 inlineContainer_bdf0de
+accessoryBar_bdf0de
+flushContainer_bdf0de
 inner_bdf0de
 innerDisabled_bdf0de
 sansAttachButton_bdf0de
@@ -2653,7 +2655,6 @@ stackedBars_bdf0de
 sparkles_bdf0de
 expressionPickerPositionLayer_bdf0de
 textAreaMobileThemed_bdf0de
-accessoryBar_bdf0de
 accessoryBarLeft_bdf0de
 accessoryBarRight_bdf0de
 rightAccessories_bdf0de
@@ -2912,11 +2913,8 @@ biteSize_b84fc9
 avatar_b84fc9
 customProfileTheme_b84fc9
 activityCoachmark_a3e4b5
-avatarCoachmark_a3e4b5
 profileCoachmark_a3e4b5
-statusCoachmark_a3e4b5
 tooltipHeader_a3e4b5
-avatarImage_a3e4b5
 profileImage_a3e4b5
 popover_f7be4f
 visible_f7be4f
