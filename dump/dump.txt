@@ -553,6 +553,7 @@ white_ef18ee
 green_ef18ee
 yellow_ef18ee
 experimentDark_ef18ee
+experimentActiveLight_ef18ee
 centerButton_ef18ee
 experimentButton_ef18ee
 fullRegionButton_ef18ee
