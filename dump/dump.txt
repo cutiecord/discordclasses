@@ -363,6 +363,7 @@ formContainer_c394c0
 container_aaa004
 buttonColumn_aaa004
 image_bcfea3
+canvasWrapper_f2053b
 anchor_af404b
 anchorUnderlineOnHover_af404b
 spinner_b6db20
@@ -3986,8 +3987,9 @@ acronym_f90abb
 icon_f90abb
 notice_be03aa
 isMobile_be03aa
-colorDefault_be03aa
 button_be03aa
+closeIcon_be03aa
+colorDefault_be03aa
 colorNeutral_be03aa
 colorPremium_be03aa
 colorPremiumTier0_be03aa
@@ -3996,7 +3998,6 @@ colorPremiumTier2_be03aa
 colorInfo_be03aa
 colorSuccess_be03aa
 colorWarning_be03aa
-closeIcon_be03aa
 colorDanger_be03aa
 colorStreamerMode_be03aa
 colorSpotify_be03aa
