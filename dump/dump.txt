@@ -1682,6 +1682,7 @@ text_b3552d
 confettiCanvas_b3552d
 additionalRedemptionInstructions_b3552d
 sponsorLogo_b3552d
+loadingIndicatorWrapper_b3552d
 headerImage_cf4d85
 header_cf4d85
 title_cf4d85
