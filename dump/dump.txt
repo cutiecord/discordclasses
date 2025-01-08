@@ -552,6 +552,7 @@ primaryLight_ef18ee
 activeLight_ef18ee
 white_ef18ee
 green_ef18ee
+premiumGradient_ef18ee
 yellow_ef18ee
 experimentDark_ef18ee
 experimentActiveLight_ef18ee
